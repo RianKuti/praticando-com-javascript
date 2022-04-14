@@ -1,0 +1,29 @@
+body{
+    color: red;
+    background-color:	#696969;
+}
+.ola{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.palavra{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    color: aquamarine;
+    font-family: "Apple Chancery, cursive";
+}
+
+.botao{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
